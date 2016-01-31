@@ -22,14 +22,21 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows you to check the change in the remote repository has changed and it can be used 
+	to merge the local with the remote repository.
+	
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Exchaging files locally which is much harder than use Git or Github.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It give alot more flexibility to collaborate in groups and theres conflicts in code.
+	This benefits the group as a whole because one person does not change the original or master
+	and completly breaks the code, insted its done thru the pull requests and then merged.
+	It also lets programmers experiment with their code. This is very beneficial since experimenting
+	is what allows coding to flurish and create amazing features without the risk of destroying
+	a working code.
